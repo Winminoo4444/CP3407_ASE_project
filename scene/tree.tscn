@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://dauvrruj17mv2"]
+
+[ext_resource type="Texture2D" uid="uid://by43pbgox8wx" path="res://asserts/map/Tree.png" id="1_dcgk5"]
+[ext_resource type="Texture2D" uid="uid://coutl7reejkou" path="res://asserts/shadows/LargeShadow.png" id="2_lutej"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_lutej"]
+radius = 12.0
+
+[node name="tree" type="StaticBody2D" unique_id=119362863]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=135479239]
+position = Vector2(0, -13)
+texture = ExtResource("1_dcgk5")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1764701909]
+position = Vector2(0, -4)
+shape = SubResource("CircleShape2D_lutej")
+
+[node name="ShadowSprite2D2" type="Sprite2D" parent="." unique_id=1245986739]
+show_behind_parent = true
+position = Vector2(0, 6)
+texture = ExtResource("2_lutej")
