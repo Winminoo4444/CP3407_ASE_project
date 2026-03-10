@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dllp8bg4lbc6t"
-path="res://.godot/imported/grapple_chain.wav-afb1129a1dee116df20104f1bcaf5990.sample"
+path="res://.godot/imported/grapple_chain.wav-59c0776095052dcc6dc2f80ab3afb7ea.sample"
 
 [deps]
 
-source_file="res://asserts/abilities/grapple_chain.wav"
-dest_files=["res://.godot/imported/grapple_chain.wav-afb1129a1dee116df20104f1bcaf5990.sample"]
+source_file="res://assets/abilities/grapple_chain.wav"
+dest_files=["res://.godot/imported/grapple_chain.wav-59c0776095052dcc6dc2f80ab3afb7ea.sample"]
 
 [params]
 

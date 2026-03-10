@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://c384xtqvsmcrt"
-path="res://.godot/imported/grapple_fire.wav-ffba6771d4e30d3f2dba6a907bdc08ba.sample"
+path="res://.godot/imported/grapple_fire.wav-1e00907e255a5ad1fbdfcaa726c9d5d2.sample"
 
 [deps]
 
-source_file="res://asserts/abilities/grapple_fire.wav"
-dest_files=["res://.godot/imported/grapple_fire.wav-ffba6771d4e30d3f2dba6a907bdc08ba.sample"]
+source_file="res://assets/abilities/grapple_fire.wav"
+dest_files=["res://.godot/imported/grapple_fire.wav-1e00907e255a5ad1fbdfcaa726c9d5d2.sample"]
 
 [params]
 

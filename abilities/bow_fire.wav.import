@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://beb17d3ma71mk"
-path="res://.godot/imported/bow_fire.wav-4b4dbb97c818128b6d4af15590fd2f37.sample"
+path="res://.godot/imported/bow_fire.wav-76fb47cff60717ff126ef0e6608f89e6.sample"
 
 [deps]
 
-source_file="res://asserts/abilities/bow_fire.wav"
-dest_files=["res://.godot/imported/bow_fire.wav-4b4dbb97c818128b6d4af15590fd2f37.sample"]
+source_file="res://assets/abilities/bow_fire.wav"
+dest_files=["res://.godot/imported/bow_fire.wav-76fb47cff60717ff126ef0e6608f89e6.sample"]
 
 [params]
 

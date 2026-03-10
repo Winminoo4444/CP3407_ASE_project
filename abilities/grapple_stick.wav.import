@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://bkurydqfsljlp"
-path="res://.godot/imported/grapple_stick.wav-b3714d64875b742e6574386112c9e534.sample"
+path="res://.godot/imported/grapple_stick.wav-e2b75da3e2a76dead597fa0bdab0dd90.sample"
 
 [deps]
 
-source_file="res://asserts/abilities/grapple_stick.wav"
-dest_files=["res://.godot/imported/grapple_stick.wav-b3714d64875b742e6574386112c9e534.sample"]
+source_file="res://assets/abilities/grapple_stick.wav"
+dest_files=["res://.godot/imported/grapple_stick.wav-e2b75da3e2a76dead597fa0bdab0dd90.sample"]
 
 [params]
 
