@@ -1,27 +1,43 @@
-# Unity generated
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
+# Godot-specific ignores
 
-# Visual Studio / VS Code
-.vscode/
-.vs/
+# Imported assets (re-generated automatically)
+.import/
+.godot/
+
+# Exported builds
+export.cfg
+export_presets.cfg
+
+# Mono / C# (if using Godot with .NET)
+.mono/
+data_*/
 *.csproj
 *.sln
-*.user
-*.userprefs
-*.pidb
-*.booproj
 
-# OS files
+# Build outputs
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# OS-specific files
 .DS_Store
 Thumbs.db
 
-# Unity meta
-*.pidb.meta
-*.pdb.meta
-*.mdb.meta
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Godot editor settings (optional - personal preference)
+.editor_settings-*.tres
+
+# Crash logs
+crashlog.txt
+
+# Backup files
+*~
